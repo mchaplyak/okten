@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d2c156e-d27b-4ee4-ac95-914b041dc1b9" name="Changes" comment="lesson3AdditionalPartDone">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/additional.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/additional.js" afterDir="false" />
+    <list default="true" id="3d2c156e-d27b-4ee4-ac95-914b041dc1b9" name="Changes" comment="lesson3AdditionalDone">
+      <change beforePath="$PROJECT_DIR$/less1/classwork.js" beforeDir="false" afterPath="$PROJECT_DIR$/less1/classwork.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
       <workItem from="1636977224028" duration="312000" />
       <workItem from="1636977539339" duration="84000" />
       <workItem from="1636977626402" duration="4941000" />
-      <workItem from="1637221328317" duration="9955000" />
+      <workItem from="1637221328317" duration="10341000" />
     </task>
     <task id="LOCAL-00001" summary="errors">
       <created>1636974541388</created>
@@ -150,7 +149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1637229527176</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="lesson3AdditionalDone">
+      <created>1637239288538</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1637239288538</updated>
+    </task>
+    <task id="LOCAL-00015" summary="lesson3AdditionalDone">
+      <created>1637239301709</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1637239301709</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +192,7 @@
     <MESSAGE value="lesson3HomeWorkDone" />
     <MESSAGE value="lesson3ClassWorkDone" />
     <MESSAGE value="lesson3AdditionalPartDone" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson3AdditionalPartDone" />
+    <MESSAGE value="lesson3AdditionalDone" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson3AdditionalDone" />
   </component>
 </project>

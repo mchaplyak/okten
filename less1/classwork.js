@@ -50,7 +50,7 @@ console.log(books[1]);
 
 let height = 23;
 let widght = 10;
-let s = 23*10;
+let s = height*widght;
 console.log(s + 'см.');
 
 // 6. Напиши код, який знаходить об'єм циліндра заввишки 10м (змінна heightC) та діаметром основи 4м (dC),
@@ -58,7 +58,7 @@ console.log(s + 'см.');
 
 let heightC = 10;
 let dC = 4;
-let v = 3.14 * (4**2) *heightC;
+let v = 3.14 * (dC**2) *heightC;
 console.log(v);
 
 // 7. У прямокутного трикутника дві сторони n (зі значенням 3) та m (зі значенням 4).
