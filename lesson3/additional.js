@@ -232,7 +232,6 @@ console.log(s2);
 
 // - Дано масив: [ 'a', 'b', 'c'] . За допомогою циклу for of зібрати всі букви в слово.
 
-
 s3 = '';
 
 for (let i = 0; i < stringArray.length; i++) {
