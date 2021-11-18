@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d2c156e-d27b-4ee4-ac95-914b041dc1b9" name="Changes" comment="all tasks done">
-      <change afterPath="$PROJECT_DIR$/lesson3/homework.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/index.html" afterDir="false" />
+    <list default="true" id="3d2c156e-d27b-4ee4-ac95-914b041dc1b9" name="Changes" comment="lesson3HomeWorkDone">
+      <change afterPath="$PROJECT_DIR$/lesson3/classwork.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,7 @@
       <workItem from="1636977224028" duration="312000" />
       <workItem from="1636977539339" duration="84000" />
       <workItem from="1636977626402" duration="4941000" />
-      <workItem from="1637221328317" duration="3170000" />
+      <workItem from="1637221328317" duration="4548000" />
     </task>
     <task id="LOCAL-00001" summary="errors">
       <created>1636974541388</created>
@@ -130,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636983123472</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="lesson3HomeWorkDone">
+      <created>1637225683135</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1637225683135</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +163,7 @@
     <MESSAGE value="2 and 3 done" />
     <MESSAGE value="task 1 and two done" />
     <MESSAGE value="all tasks done" />
-    <option name="LAST_COMMIT_MESSAGE" value="all tasks done" />
+    <MESSAGE value="lesson3HomeWorkDone" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson3HomeWorkDone" />
   </component>
 </project>
