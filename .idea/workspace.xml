@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d2c156e-d27b-4ee4-ac95-914b041dc1b9" name="Changes" comment="lesson3ClassWorkDone">
-      <change afterPath="$PROJECT_DIR$/lesson3/additional.js" afterDir="false" />
+    <list default="true" id="3d2c156e-d27b-4ee4-ac95-914b041dc1b9" name="Changes" comment="lesson3AdditionalPartDone">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/additional.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/additional.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
       <workItem from="1636977224028" duration="312000" />
       <workItem from="1636977539339" duration="84000" />
       <workItem from="1636977626402" duration="4941000" />
-      <workItem from="1637221328317" duration="6900000" />
+      <workItem from="1637221328317" duration="9955000" />
     </task>
     <task id="LOCAL-00001" summary="errors">
       <created>1636974541388</created>
@@ -144,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637227125204</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="lesson3AdditionalPartDone">
+      <created>1637229527176</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1637229527176</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +178,7 @@
     <MESSAGE value="all tasks done" />
     <MESSAGE value="lesson3HomeWorkDone" />
     <MESSAGE value="lesson3ClassWorkDone" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson3ClassWorkDone" />
+    <MESSAGE value="lesson3AdditionalPartDone" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson3AdditionalPartDone" />
   </component>
 </project>
