@@ -65,3 +65,17 @@ console.log(objectKeys(arr3));
 //     [{name: 'Dima', age: 13}, {model: 'Camry'}]  ===> [ Dima, 13, Camry ]
 
 
+function objectValues (arr) {
+
+    let arrValues = [];
+
+    for (const arrE of arr) {
+        let v = Object.values(arrE)
+        for (const vElement of v) {
+            arrValues.push(vElement)
+        }
+    }
+return arrValues;
+}
+
+console.log(objectValues(arr3));
