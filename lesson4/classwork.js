@@ -57,7 +57,7 @@ console.log(arrMinNumber(arr1));
 
 // - створити функцію яка приймає масив чисел, сумує значення елементів масиву та повертає його. Приклад [1,2,10]->13
 
-function arrSum (array) {
+function arrSum(array) {
     summ = 0;
     for (const arrayElement of array) {
         summ += arrayElement;
@@ -69,7 +69,7 @@ console.log(arrSum(arr1));
 
 // - створити функцію яка приймає масив чисел та повертає середнє арифметичне його значень.
 
-function arrArithneticMean (array) {
+function arrArithneticMean(array) {
     summ = 0;
     for (const arrayElement of array) {
         summ += arrayElement;
@@ -102,9 +102,10 @@ let arrRandomNumbers = [];
 
 function randomNumbers(array, quantity) {
     for (let i = 0; i < quantity; i++) {
-        array.push(Math.round(Math.random()*100))
+        array.push(Math.round(Math.random() * 100))
     }
 }
+
 randomNumbers(arrRandomNumbers, 10);
 
 console.log(arrRandomNumbers);
@@ -115,28 +116,30 @@ let arrRandomNumbers2 = [];
 
 function randomNumbers2(array, quantity, limit) {
     for (let i = 0; i < quantity; i++) {
-        array.push(Math.round(Math.random()*limit))
+        array.push(Math.round(Math.random() * limit))
     }
 }
+
 randomNumbers2(arrRandomNumbers2, 10, 10);
 
 console.log(arrRandomNumbers2);
 
 // - Функція приймає масив та робить з нього новий масив в зворотньому порядку. [1,2,3] -> [3, 2, 1].
 
-let arr2 = [1,2,3]
+let arr2 = [1, 2, 3]
 
 
 function reverseArray(array) {
     let reverseArr = [];
 
-    for (let i = array.length-1; i >= 0; i--) {
+    for (let i = array.length - 1; i >= 0; i--) {
         const arrayElement = array[i];
-       reverseArr.push(arrayElement);
+        reverseArr.push(arrayElement);
     }
 
     return reverseArr
 }
+
 console.log(reverseArray(arr2));
 
 
