@@ -137,7 +137,6 @@ function reverseArray(array) {
 
     return reverseArr
 }
-
 console.log(reverseArray(arr2));
 
 
