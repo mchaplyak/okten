@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d2c156e-d27b-4ee4-ac95-914b041dc1b9" name="Changes" comment="classworkDone and additional add">
+    <list default="true" id="3d2c156e-d27b-4ee4-ac95-914b041dc1b9" name="Changes" comment="additional task1DOne">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson4/additional.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/additional.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,7 @@
       <workItem from="1636977224028" duration="312000" />
       <workItem from="1636977539339" duration="84000" />
       <workItem from="1636977626402" duration="4941000" />
-      <workItem from="1637221328317" duration="19716000" />
+      <workItem from="1637221328317" duration="20399000" />
     </task>
     <task id="LOCAL-00001" summary="errors">
       <created>1636974541388</created>
@@ -195,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637326307405</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="additional task1DOne">
+      <created>1637328573544</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1637328573544</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +235,7 @@
     <MESSAGE value="homeworkDone" />
     <MESSAGE value="classworkDone" />
     <MESSAGE value="classworkDone and additional add" />
-    <option name="LAST_COMMIT_MESSAGE" value="classworkDone and additional add" />
+    <MESSAGE value="additional task1DOne" />
+    <option name="LAST_COMMIT_MESSAGE" value="additional task1DOne" />
   </component>
 </project>
