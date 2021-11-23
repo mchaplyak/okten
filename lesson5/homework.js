@@ -15,7 +15,7 @@ console.log(circleArea(15));
 
 let cylinderSquare = (r, h) => 2 * Math.PI * r * h;
 
-console.log(cylinderSquare(10,5));
+console.log(cylinderSquare(10, 5));
 
 // - створити функцію яка приймає масив та виводить кожен його елемент
 
